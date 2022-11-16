@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.inline {
+  display: inline;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.rigth {
+  float: right;
+}
+
+.border1 {
+  border: 5px solid rgb(132, 128, 127);
+  background-color: antiquewhite;
+}
+
+.h1 {
+  color: rgb(111, 80, 80);
+}
+
+.h2 {
+  color: rgb(255, 255, 255);
+  padding-left: 24px;
+}
+
+.h3 {
+  color: rgb(255, 255, 255);
+  padding-left: 10px;
+}
+
+.h4 {
+  color: white;
+}
+
+.p {
+  color: rgb(255, 255, 255);
+  text-indent: 50px;
+  padding-right: 10rem;
+}
+
+a:visited {
+  color: bisque;
+}
+
+a:hover {
+  font-size: 25px;
+  cursor: pointer;
+}
