@@ -55,3 +55,8 @@ a:hover {
   font-size: 25px;
   cursor: pointer;
 }
+
+.special_a {
+  display: inline;
+  margin-left: 790px;
+}
