@@ -47,6 +47,10 @@ body {
   padding-right: 10rem;
 }
 
+a:default {
+  color: bisque;
+}
+
 a:visited {
   color: bisque;
 }
@@ -59,4 +63,8 @@ a:hover {
 .special_a {
   display: inline;
   margin-left: 790px;
+}
+
+.padding-left {
+  padding-left: 2%;
 }
